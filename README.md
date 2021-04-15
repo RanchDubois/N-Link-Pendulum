@@ -1,5 +1,7 @@
 # N-Link Pendulum
 
+[![DOI](https://zenodo.org/badge/140887199.svg)](https://zenodo.org/badge/latestdoi/140887199)
+
 This set of MATLAB scripts allows one to numerically simulate a two-dimensional N-link pendulum in time. The equations of motion are generated using one of:
 
 * Newton-Euler approach (F = ma) with minimal coordinates (polar coordinates),
